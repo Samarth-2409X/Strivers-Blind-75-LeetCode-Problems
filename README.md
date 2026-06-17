@@ -1,1 +1,1 @@
-# Strivers-Blind-75-LeetCode-Problems
+# Strivers-Blind-75-LeetCode-Problems.
